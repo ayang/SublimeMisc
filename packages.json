@@ -1,0 +1,19 @@
+{
+    "schema_version": "2.0",
+    "packages": [
+        {
+            "name": "SublimeMisc",
+            "author": "Bruce Yang <ayang23@gmail.com>",
+            "description": "My misc utils for Sublime Text 3",
+            "details": "https://github.com/ayang/SublimeMisc",
+            "homepage": "https://github.com/ayang/SublimeMisc",
+            "releases": [
+                {
+                    "platforms": ["linux"],
+                    "sublime_text": "*",
+                    "details": "https://github.com/ayang/SublimeMisc"
+                }
+            ]
+        }
+    ]
+}
